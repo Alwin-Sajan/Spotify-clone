@@ -1,0 +1,2 @@
+root: D:\vs cod\React Project\LearnRe\Fifth\spotifiy_clone\nvm
+path: C:\Program Files\nodejs
