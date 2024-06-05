@@ -1,4 +1,4 @@
-# Sportify Clone 
+# Spotify Clone 
 
 <p>  
  
